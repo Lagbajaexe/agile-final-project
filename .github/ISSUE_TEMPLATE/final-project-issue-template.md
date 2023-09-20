@@ -6,7 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
 As a [context]
 I need [function]
 So that [purpose]
@@ -14,4 +13,8 @@ So that [purpose]
 Assumptions
 *
 Acceptance criteria
+*
+Given[context]
+When[action]
+And so[event]
 *
